@@ -1,0 +1,6 @@
+- Also get total count of each keyword so that it helps understand significance of words
+- Allow returning from database, list of different methods used to summarize files
+- Use rating(score) to prioritize and finally use order to sort when summarizing with sub-partitions
+- Allow using multithreading instead of multiprocessing
+- Add multithreaded expanding of t.co urls
+- Allow using previously saved keywords to sort new summary since other keyword extraction methods apart from gensim are expensive
